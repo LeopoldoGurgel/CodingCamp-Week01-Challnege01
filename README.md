@@ -8,7 +8,7 @@ After perceiving how many business could not be found on search engines as easil
 
 Meet HoriseOn, a company focused on helping other business to improve their goals by optimizing visibility on Search Engines, improving online reputation and developing Social Media maketing strategies. 
 
-This project aims to apply on their website the best practices available on Web Development, such as the most semantic html elements, in order to make their web page more accessible for everyone and better rated on search engines.
+This project aims to apply on their website the best practices available on Web Development, such as the most semantic html elements, in order to make it more accessible for everyone and better rated on search engines.
 
 ![Alt text](./Assets/01-html-css-git-homework-demo.png "Page screenshot")
 
