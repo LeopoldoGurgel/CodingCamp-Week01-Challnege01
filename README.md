@@ -1,6 +1,6 @@
 # HORISEON - Social Solution Services
 
-https://leopoldogurgel.github.io/challenge01-horizeon-leopoldo/
+https://leopoldogurgel.github.io/CodingCamp-Week01-Challnege01/
 
 ## DESCRIPTION
 
