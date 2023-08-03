@@ -10,7 +10,7 @@ Meet HoriseOn, a company focused on helping other business to improve their goal
 
 This project aims to apply on their website the best practices available on Web Development, such as the most semantic html elements, in order to make their web page more accessible for everyone and better rated on search engines.
 
-![Alt text](./docs/assets/images/page-screenshot.jpg "Page screenshot")
+![Alt text](./Assets/01-html-css-git-homework-demo.png "Page screenshot")
 
 ## INSTRUCTIONS
 
